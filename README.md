@@ -1,4 +1,4 @@
-Welcome to my page for coding projects.
+Welcome to my page. It is not about what you think it is. 
 
 You can use the [editor on GitHub](https://github.com/Isparzada/Coursera-test-February/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
